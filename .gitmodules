@@ -1,4 +1,4 @@
 [submodule "Karbo-webwallet-js"]
 	path = Karbo-webwallet-js
-url=https://github.com/Karbovanets/Karbo-webwallet-js
+	url = https://github.com/Karbovanets/Karbo-webwallet-js
 	branch = master
