@@ -1,8 +1,8 @@
 {
-  "name": "masari-gui-wallet",
-  "productName": "masari-gui-wallet",
+  "name": "karbo-electron-wallet",
+  "productName": "karbo-electron-wallet",
   "version": "2.0.0",
-  "description": "GUI Wallet for Masari by the Masari Team",
+  "description": "Electron Wallet for Karbo",
   "main": "src/main.js",
   "scripts": {
     "install": "bash ./scripts/installer.sh",
