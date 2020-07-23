@@ -1,4 +1,4 @@
-[submodule "masari-webwallet"]
-	path = masari-webwallet
-	url = https://github.com/masari-project/masari-webwallet
+[submodule "Karbo-webwallet-js"]
+	path = Karbo-webwallet-js
+url=https://github.com/Karbovanets/Karbo-webwallet-js
 	branch = master
